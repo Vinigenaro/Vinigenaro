@@ -33,11 +33,10 @@ Always curious and eager to learn new things
   <a href="mailto:genarovinicius91@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL">
   </a>
-  <a href="" target=https://discord.com/users/787370070027665418"_blank">
+  <a href="https://discord.com/users/787370070027665418" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="" target=https://instagram.com/vinnygnf"_blank">
+  <a href="https://instagram.com/vinnygnf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
